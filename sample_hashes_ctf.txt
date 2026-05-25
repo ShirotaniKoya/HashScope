@@ -1,0 +1,33 @@
+# Sample Hashes for Testing
+# CTF形式のサンプルハッシュ集
+
+# MD5 (最も一般的)
+5f4dcc3b5aa765d61d8327deb882cf99
+e10adc3949ba59abbe56e057f20f883e
+
+# SHA-1
+356a192b7913b04c54574d18c28d46e6395428ab
+
+# SHA-256
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+
+# NTLM (Windows)
+8846f7eaee8fb117ad06bdd830b7586c
+
+# md5crypt (Unix)
+$1$salt$qJH7.N4xYta3aEG/dfqo/0
+
+# sha512crypt (Linux)
+$6$rounds=5000$usesomesillystri$D4IrlXatmP7rx3P3InaxBeoomnAihCKRVQP22JZ6EY47Wc6BkroIuUUBOov1i.S5KPgErtP/EN5mcO.ChWQW21
+
+# bcrypt (WordPress等)
+$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy
+
+# phpass (WordPress)
+$P$9d2OMJEOHyPg11MeSv46hashcatG.F1
+
+# NetNTLMv2 (Windows認証)
+admin::N46iSNekpT:08ca45b7d7ea58ee:88dcbe4446168966a153a0064958dac6:5c7830315c7830310000000000000b45c67103d07d7b95acd12ffa11230e0000000052920b85f78d013c31cdb3b92f5d765c783030
+
+# MySQL 4.1/5
+*2470C0C06DEE42FD1618BB99005ADCA2EC9D1E19
